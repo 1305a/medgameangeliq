@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.085035mm"
+   height="13.229169mm"
+   viewBox="0 0 10.085035 13.229169"
+   version="1.1"
+   id="svg18711"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Иконка_Врач.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18713"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="12.443434"
+     inkscape:cx="39.699651"
+     inkscape:cy="22.783099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18708">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1517"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1320"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(67.640454,-43.05552)">
+    <path
+       id="path4485-1"
+       style="fill:#274470;fill-opacity:1;stroke-width:1"
+       d="M 12.853516 0 C 10.654008 0 8.8652344 1.9713855 8.8652344 4.3945312 L 8.8652344 14.037109 C 8.8652344 17.923828 10.639223 21.373144 13.333984 23.421875 C 10.439686 24.421288 7.7880999 26.180956 5.5820312 28.611328 C 1.982398 32.576952 -1.1842379e-15 37.84873 0 43.457031 L 0 50 L 38.117188 50 L 38.117188 43.457031 C 38.117188 37.84873 36.13479 32.576952 32.535156 28.611328 C 30.337244 26.18994 27.696339 24.432909 24.814453 23.431641 C 25.318922 23.049704 25.796397 22.616211 26.240234 22.130859 C 28.182946 20.006444 29.251953 17.175683 29.251953 14.160156 L 29.251953 4.3945312 C 29.251953 1.9713855 27.463179 5.9211895e-16 25.263672 0 L 12.853516 0 z M 19.037109 2.9238281 C 19.114631 2.9238281 19.190878 2.9266278 19.267578 2.9296875 L 25.263672 2.9296875 C 25.99684 2.9296875 26.59375 3.5868161 26.59375 4.3945312 L 26.59375 5.859375 L 26.591797 5.859375 L 26.591797 5.8574219 L 11.525391 5.8574219 L 11.525391 5.859375 L 11.523438 5.859375 L 11.523438 4.3945312 C 11.523438 3.5868161 12.120348 2.9296875 12.853516 2.9296875 L 18.806641 2.9296875 C 18.882912 2.9266621 18.960026 2.9238281 19.037109 2.9238281 z M 11.523438 8.7890625 L 11.525391 8.7890625 L 11.525391 8.7910156 L 26.591797 8.7910156 L 26.591797 8.7890625 L 26.59375 8.7890625 L 26.59375 14.160156 C 26.59375 16.388966 25.80321 18.480467 24.367188 20.050781 C 22.931341 21.620801 21.024356 22.473144 19.001953 22.460938 C 14.878885 22.4273 11.523437 18.647948 11.523438 14.037109 L 11.523438 8.7890625 z M 19.058594 25.390625 C 20.52759 25.390625 21.950932 25.606734 23.306641 26.007812 L 19.054688 30.691406 L 14.802734 26.007812 C 16.16031 25.60557 17.587292 25.390625 19.058594 25.390625 z M 26.056641 27.121094 C 31.608113 30.019239 35.457031 36.251661 35.457031 43.457031 L 35.457031 47.070312 L 20.388672 47.070312 L 20.388672 33.365234 L 26.056641 27.121094 z M 12.054688 27.123047 L 17.728516 33.375 L 17.728516 47.070312 L 2.6601562 47.070312 L 2.6601562 43.457031 C 2.6601562 36.254098 6.5061441 30.022462 12.054688 27.123047 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-67.640454,43.05552)" />
+    <g
+       style="fill:#274470;fill-opacity:1;stroke-width:10.748"
+       id="g4493-6"
+       transform="matrix(0.02345357,0,0,0.02583822,-68.60205,43.05552)">
+      <polygon
+         style="fill:#274470;fill-opacity:1;stroke-width:10.748"
+         points="341,362 341,392 311,392 311,422 341,422 341,452 371,452 371,422 401,422 401,392 371,392 371,362 "
+         id="polygon4491-6" />
+    </g>
+  </g>
+</svg>
